@@ -18,7 +18,20 @@ def save_json(ob, name='data/dict_to_json'):
         json.dump(ob, outfile)
         print('Json feito com sucesso!')
 
+def tamanhos_listas(arquivo):
+    with open(arquivo) as infile:
+        data = json.load(infile)
 
+    from collections import defaultdict
+
+    tamanhos = defaultdict(list)
+
+    for key in data:
+        #tamanhos[key].append(int(len(data[key])))
+        if int(key) > 1996:      #professor pediu a partir do ano de 1997
+            tamanhos[key] = len(data[key])
+
+    return(tamanhos)
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
@@ -160,20 +173,7 @@ def mandar_api():
 import json
 import matplotlib.pyplot as plt
 import seaborn as sns
-def tamanhos_listas(arquivo):
-    with open(arquivo) as infile:
-        data = json.load(infile)
 
-    from collections import defaultdict
-
-    tamanhos = defaultdict(list)
-
-    for key in data:
-        #tamanhos[key].append(int(len(data[key])))
-        if int(key) > 1996:      #professor pediu a partir do ano de 1997
-            tamanhos[key] = len(data[key])
-
-    return(tamanhos)
 
 teste = tamanhos_listas('data/dict_to_json')
 teste_valores = [i for i in teste.values()]
