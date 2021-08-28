@@ -1,0 +1,44 @@
+Quantidade de anos: 40
+
+O total de arquivos zip contendo os textos das patentes  no período 1997-2015 é 2115.
+
+O ano 1976 tem 52 arquivos.
+O ano 1977 tem 52 arquivos.
+O ano 1978 tem 52 arquivos.
+O ano 1979 tem 52 arquivos.
+O ano 1980 tem 53 arquivos.
+O ano 1981 tem 52 arquivos.
+O ano 1982 tem 52 arquivos.
+O ano 1983 tem 52 arquivos.
+O ano 1984 tem 52 arquivos.
+O ano 1985 tem 53 arquivos.
+O ano 1986 tem 52 arquivos.
+O ano 1987 tem 52 arquivos.
+O ano 1988 tem 52 arquivos.
+O ano 1989 tem 52 arquivos.
+O ano 1990 tem 52 arquivos.
+O ano 1991 tem 53 arquivos.
+O ano 1992 tem 52 arquivos.
+O ano 1993 tem 52 arquivos.
+O ano 1994 tem 52 arquivos.
+O ano 1995 tem 52 arquivos.
+O ano 1996 tem 53 arquivos.
+O ano 1997 tem 52 arquivos.
+O ano 1998 tem 52 arquivos.
+O ano 1999 tem 52 arquivos.
+O ano 2000 tem 52 arquivos.
+O ano 2001 tem 104 arquivos.
+O ano 2002 tem 53 arquivos.
+O ano 2003 tem 52 arquivos.
+O ano 2004 tem 52 arquivos.
+O ano 2005 tem 52 arquivos.
+O ano 2006 tem 52 arquivos.
+O ano 2007 tem 52 arquivos.
+O ano 2008 tem 53 arquivos.
+O ano 2009 tem 52 arquivos.
+O ano 2010 tem 57 arquivos.
+O ano 2011 tem 58 arquivos.
+O ano 2012 tem 57 arquivos.
+O ano 2013 tem 54 arquivos.
+O ano 2014 tem 52 arquivos.
+O ano 2015 tem 11 arquivos.
